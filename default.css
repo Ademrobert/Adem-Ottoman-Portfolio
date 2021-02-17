@@ -302,6 +302,7 @@ h6 { font-size: 16px;}
 }
 
 #events{
+	align-items: center;
 	display: flex;
 	justify-content: space-evenly;
 	background-color: var(--previewShadow);
