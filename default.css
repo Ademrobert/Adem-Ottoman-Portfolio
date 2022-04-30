@@ -341,6 +341,14 @@ h6 { font-size: 16px;}
 	object-fit: cover;
 }
 
+.thumbnail-notion{
+  display: block;
+	width: 90%;
+	height:280px;
+	object-fit: cover;
+  position: center;
+}
+
 .post-preview{
 	background-color: #fff;
 	padding:15px;
